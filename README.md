@@ -6,3 +6,5 @@ Data Sources:
 - Clinical Trial Efficacy and Adverse Events: www.clinicaltrials.gov
 - Drug Interaction Annotation: www.drugbank.ca
 - Drug Cost: https://www.medicaid.gov/Medicaid-CHIP-Program-Information/By-Topics/Benefits/Prescription-Drugs/Pharmacy-Pricing.html
+- Dataset Download URL: http://library.dcri.duke.edu/dtmi/ctti/2015_Sept_Annual/AACT201509_pipe_delimited_txt.zip
+
