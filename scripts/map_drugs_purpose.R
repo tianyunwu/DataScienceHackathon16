@@ -1,7 +1,6 @@
 rm(list = ls(all = TRUE))
 library(data.table)
 
-dir="~/Dropbox/DrugRank/drug_classes/"
 indication_files=list.files(dir)
 indications=gsub("[_]"," ",gsub("[.]txt","",indication_files))
 
